@@ -4,7 +4,7 @@
 </div>
 <br>-->
 
-<div  align="center"> 
+<div > 
   <div style="display: inline_block"><br>
     <img align="left" height="250" alt="coding-time" src="code.gif">
     <h1 align="center">Melhores Tecnologias 🖥️</h1>

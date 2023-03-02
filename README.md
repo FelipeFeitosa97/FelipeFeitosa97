@@ -38,4 +38,3 @@
 <br><br>
 
 
-![Snake Animation](https://github.com/LuigiGF/LuigiGF/edit/output/github-contribution-grid-snake.svg)

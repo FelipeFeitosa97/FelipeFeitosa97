@@ -38,6 +38,5 @@
 <br><br>
 
 
-<div>
-    <img src="https://github.com/LuigiGF/LuigiGF/edit/output/github-contribution-grid-snake.svg">
-</div>
+
+    ![Snake Animation](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)

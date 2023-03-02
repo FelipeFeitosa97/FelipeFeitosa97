@@ -5,8 +5,9 @@
 <br>-->
 
 <div align="center"> 
-  <div style="display: inline_block"><br>
-    <img align="left" height="250" alt="coding-time" src="https://raw.githubusercontent.com/trepichio/trepichio/master/assets/code.gif">
+    <!--<div style="display: inline_block"><br>
+       <img align="left" height="250" alt="coding-time" src="https://raw.githubusercontent.com/trepichio/trepichio/master/assets/code.gif">
+    </div>-->
     <h1 align="center">Melhores Tecnologias 🖥️</h1>
     <img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
     <img align="center" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="Typescrypt">
@@ -18,7 +19,7 @@
     <img align="center" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">
     <img align="center" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">
     <img align="center" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-   </div>
+  
     
   
   <h1 align="center">Redes Sociais</h1>

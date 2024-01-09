@@ -1,13 +1,13 @@
 ### Faaaala Dev, Felipe por aqui ! 🤙
-<!--<div>
+<div>
  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=FelipeFeitosa97&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
 </div>
-<br>-->
+<br>
 
 <div align="center"> 
-    <div style="display: inline_block"><br>
+    <!--<div style="display: inline_block"><br>
        <img align="left" height="250" alt="coding-time" src="https://raw.githubusercontent.com/trepichio/trepichio/master/assets/code.gif">
-    </div>
+    </div>-->
     <h1 align="center">Melhores Tecnologias 🖥️</h1>
     <img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
     <img align="center" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="Typescrypt">
